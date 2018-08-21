@@ -4,7 +4,7 @@ title: "Launching the site"
 date: 2018-08-21
 ---
 
-Well, I finally got round to creating this website. It's my 5th year as a UX designer and I haven't got a decent portfolio. I just never found a tool that I felt comfortable using to create one. As an ex java developer, I also worked out that I didn't hate coding, I used hated backend dev. So, here's my attempt to learn some HTML, CSS and Javascript and create a kick-ass Portfolio as we go along. 
+Well, I finally got round to creating this website. It's my 5th year as a UX designer and I haven't got a decent portfolio. I just never found a tool that I felt comfortable using to create one. As an ex java developer, I also worked out that I didn't hate coding, I just hated backend dev. So, here's my attempt to learn some HTML, CSS and Javascript and create a kick-ass Portfolio as we go along. 
 
 I've learnt a delightful thing today - I can incorporate Jerkyll (http://jerkyllrb.com) so can use Markdown to author my posts. That's much easier than I thought creating a blog might be.
 
