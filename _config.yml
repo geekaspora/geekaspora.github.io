@@ -1,2 +1,3 @@
 name: Chimmy Kalu, UX Designer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
