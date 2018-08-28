@@ -1,8 +1,8 @@
---
+---
 layout: post
 title: "Installing Git and Jekyll locally - part 1"
 date: 2018-08-28
---
+---
 Boy, has this taken me a few days. I started on the 24th and encountered so many errors - I suspect because for some weird reason all of my files had been pushed to iCloud drive - that I closed my 1 million tabs, restarted my computer and restarted the install. Here are the steps I went through and the issues that I had to fix.
 
 I followed the steps on [Github help](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) 
